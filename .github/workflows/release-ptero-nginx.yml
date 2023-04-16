@@ -1,4 +1,4 @@
-name: Nginx 8.1
+name: Nginx 8.2
 
 on:
   workflow_dispatch:
