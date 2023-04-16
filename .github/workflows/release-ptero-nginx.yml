@@ -28,4 +28,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/penalte/nginx-ptero:8.1
+            ghcr.io/penalte/nginx-ptero:8.2
